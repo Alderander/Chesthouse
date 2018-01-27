@@ -1,6 +1,6 @@
 <?php
 
-	namespace nikipuh;
+	namespace Main;
 
 	use pocketmine\plugin\PluginBase;
 	use pocketmine\math\Vector3;
@@ -213,5 +213,3 @@
                         }
             }
         }
-
-?>
